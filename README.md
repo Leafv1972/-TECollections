@@ -1,3 +1,5 @@
+### TEObituary20261024aaa1JeffreyArcherix_lexile-AMENew
+
 ## 📊 可读性分析报告 (含蓝思值估算)
 
 | Metric | Value |
